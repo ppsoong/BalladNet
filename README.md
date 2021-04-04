@@ -1,1 +1,1 @@
-# BalladNet
+# EBBA Tagger Model
